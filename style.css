@@ -1,0 +1,15 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #091931;
+  background-image: url(img/air3.jpg);
+}
+#projects {
+  background-color: #e2edff;
+  background-image: url(img/biru3.jpg);
+}
+section {
+  padding-top: 5rem;
+}
+body {
+  background-color: #020e36;
+}
